@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../core/variables","data":{"isAsync":false}}],"output":[{"data":{"code":"__d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {\n  _$$_REQUIRE(_dependencyMap[0], \"../core/variables\");\n});","map":[[2,0,1,0]]},"type":"js/module"}]}

@@ -1,0 +1,9 @@
+Buildfile: E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

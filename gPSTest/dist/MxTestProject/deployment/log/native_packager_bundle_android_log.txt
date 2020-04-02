@@ -1,0 +1,8 @@
+C:\Program Files\Mendix\8.7.0.1476\modeler\tools\node\node.exe "C:\Program Files\Mendix\8.7.0.1476\modeler\tools\node\node_modules\react-native\local-cli\cli.js" bundle --config "E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\native\metro.config.json" --dev "false" --entry-file "E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\native\index.js" --platform "android" --bundle-output "E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\native\bundle\android\assets\index.android.bundle" --assets-dest "E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\native\bundle\android\res" --reactNativePath "C:\Program Files\Mendix\8.7.0.1476\modeler\tools\node\node_modules\react-native" 
+
+Loading dependency graph, done.
+info Writing bundle output to:, E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\native\bundle\android\assets\index.android.bundle
+info Done writing bundle output
+
+
+

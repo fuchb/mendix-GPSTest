@@ -1,0 +1,12 @@
+Buildfile: E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 1 source file to E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\run\bin
+
+package:
+      [jar] Building jar: E:\workspace\src\mendix\GPSTest-Native\mendix-GPSTest\gPSTest\dist\MxTestProject\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+
