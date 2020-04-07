@@ -12,7 +12,7 @@ export class BadgeSample extends Component {
         Geolocation.getCurrentPosition(info => {
             this.position.center.latitude = info.coords.latitude;
             this.position.center.longitude = info.coords.longitude;
-            alert(info.coords.latitude);
+            alert("現在位置：経度：" + info.coords.longitude + "緯度：" + info.coords.latitude);
         });
     }
     render(): ReactNode {
